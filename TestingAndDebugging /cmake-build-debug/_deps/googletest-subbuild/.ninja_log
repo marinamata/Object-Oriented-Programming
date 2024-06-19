@@ -1,0 +1,21 @@
+# ninja log v5
+0	90	1649106826468179221	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	15eb8e45d1452c42
+0	90	1649106826468179221	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	15eb8e45d1452c42
+0	2364	1649106838110966943	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2037c71c438945b2
+0	2364	1649106838110966943	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	2037c71c438945b2
+2364	3237	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	86576afbb931f7f6
+2364	3237	0	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	86576afbb931f7f6
+3237	3257	1649106839004500602	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	164299dfb12c84d6
+3237	3257	1649106839004500602	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	164299dfb12c84d6
+3257	3283	1649106839030138581	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	6a41696ce843590
+3257	3283	1649106839030138581	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	6a41696ce843590
+3283	3311	1649106839058188650	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	3d83c28f958d7c39
+3283	3311	1649106839058188650	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	3d83c28f958d7c39
+3311	3341	1649106839088574305	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bc5fa1799782fb49
+3311	3341	1649106839088574305	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	bc5fa1799782fb49
+3341	3364	1649106839111200034	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e2d74640587afcc0
+3341	3364	1649106839111200034	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e2d74640587afcc0
+3364	3391	1649106839138679593	CMakeFiles/googletest-populate-complete	27232df4cacb8404
+3364	3391	1649106839138679593	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	27232df4cacb8404
+3364	3391	1649106839138679593	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	27232df4cacb8404
+3364	3391	1649106839138679593	/Users/marina/Downloads/TestingAndDebugging/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	27232df4cacb8404
